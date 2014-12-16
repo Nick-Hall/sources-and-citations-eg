@@ -10,6 +10,8 @@
 
 ## Information contained within sources ##
 
+* [27](http://fhiso.org/files/cfp/cfps27.pdf)  Requirement for representing uncertain characters in transcribed data
+* [69](http://fhiso.org/files/cfp/cfps69.pdf)  A proposed notation for improving the transcription and translation of genealogical sources
 * [72](http://fhiso.org/files/cfp/cfps72.pdf)  Persona Records
 * [89](http://fhiso.org/files/cfp/cfps89.pdf)  Sources, events, personae, individuals and graphs
 
