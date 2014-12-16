@@ -60,6 +60,10 @@
 * [Citation](http://www.familyhistorydata.parallaxview.co/home/document-structure/citation)
 * [Cite Seeing](http://parallax-viewpoint.blogspot.co.uk/2014/09/cite-seeing.html)
 
+## Text Encoding Initiative (TEI) ##
+
+* [Text Encoding Initiative](http://www.tei-c.org)
+
 ## XMP ##
 
 * [XMP](http://www.adobe.com/devnet/xmp.html)
