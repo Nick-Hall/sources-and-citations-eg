@@ -44,6 +44,12 @@
 
 * [Layered citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing)
 
+## Family Folklore Blog ##
+
+* [Growing a Healthy Family Tree](https://familyfolklore.wordpress.com/2014/09/16/growing-a-healthy-family-tree)
+* [Thoughts of Mastering Genealogical Proof: Chapter 3 Thorough Research](https://familyfolklore.wordpress.com/2014/03/15/thoughts-of-mastering-genealogical-proof-chapter-3-thorough-research)
+* [Provenance of a Personal Collection – Archival Accession, Arrangement and Description](https://familyfolklore.wordpress.com/2013/05/20/provenance-of-a-personal-collection-archival-accession-arrangement-and-description)
+
 ## GedcomX ##
 
 * [Record extensions](https://github.com/FamilySearch/gedcomx-record/blob/master/specifications/record-specification.md)
