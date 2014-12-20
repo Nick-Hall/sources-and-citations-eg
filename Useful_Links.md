@@ -55,6 +55,11 @@
 * [Record extensions](https://github.com/FamilySearch/gedcomx-record/blob/master/specifications/record-specification.md)
 * [Field types](https://github.com/FamilySearch/gedcomx-record/blob/master/specifications/field-types-specification.md)
 
+## International Council on Archives (ICA) ##
+
+* [ICA standards & guidelines](http://www.icacds.org.uk/eng/standards.htm)
+* [General International Standard Archival Description](http://www.icacds.org.uk/eng/ISAD%28G%29.pdf)
+
 ## MARC standard for bibliographic data ##
 
 * [MARC standard for bibliographic data](http://www.loc.gov/marc/)
