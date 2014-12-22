@@ -18,6 +18,11 @@
 
 # External Links #
 
+## Listings of metadata standards ##
+
+* [Wikipedia](http://en.wikipedia.org/wiki/Metadata_standards)
+* [JISC Digital Media](http://www.jiscdigitalmedia.ac.uk/guide/putting-things-in-order-links-to-metadata-schemas-and-related-standards)
+
 ## Archives 2 All (A2A) ##
 
 * [Validation](http://a2a.coret.org/)
@@ -69,7 +74,7 @@
 
 * [Metadata Working Group](http://www.metadataworkinggroup.org)
 
-## EDItEUR ##
+## ONIX - EDItEUR ##
 
 * [ONIX standard](http://www.editeur.org/8/ONIX)
 
