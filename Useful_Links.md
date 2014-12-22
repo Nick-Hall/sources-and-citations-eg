@@ -69,6 +69,10 @@
 
 * [Metadata Working Group](http://www.metadataworkinggroup.org)
 
+## EDItEUR ##
+
+* [ONIX standard](http://www.editeur.org/8/ONIX)
+
 ## STEMMA ##
 
 * [Citation](http://www.familyhistorydata.parallaxview.co/home/document-structure/citation)
