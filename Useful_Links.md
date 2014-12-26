@@ -85,9 +85,9 @@
 
 ## Open Archives Initiative (OAI) ##
 
-* [Open Archives API](http://www.openarchives.org/)
+* [Open Archives Initiative](http://www.openarchives.org/)
 * [Protocol for Metadata Harvesting](http://www.openarchives.org/pmh)
-* [OAI wikipedia entry](http://en.wikipedia.org/wiki/Open_Archives_Initiative)
+* [Wikipedia entry](http://en.wikipedia.org/wiki/Open_Archives_Initiative)
 
 ## STEMMA ##
 
