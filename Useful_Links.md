@@ -78,6 +78,11 @@
 
 * [ONIX standard](http://www.editeur.org/8/ONIX)
 
+## Open Archives ##
+
+* [Open Archives API](https://openarch.nl/api/docs)
+* [Open Cultuur Data API](http://docs.opencultuurdata.nl/user/datasets.html)
+
 ## STEMMA ##
 
 * [Citation](http://www.familyhistorydata.parallaxview.co/home/document-structure/citation)
