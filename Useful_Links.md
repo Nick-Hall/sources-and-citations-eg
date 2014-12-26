@@ -83,6 +83,12 @@
 * [Open Archives API](https://openarch.nl/api/docs)
 * [Open Cultuur Data API](http://docs.opencultuurdata.nl/user/datasets.html)
 
+## Open Archives Initiative (OAI) ##
+
+* [Open Archives API](http://www.openarchives.org/)
+* [Protocol for Metadata Harvesting](http://www.openarchives.org/pmh)
+* [OAI wikipedia entry](http://en.wikipedia.org/wiki/Open_Archives_Initiative)
+
 ## STEMMA ##
 
 * [Citation](http://www.familyhistorydata.parallaxview.co/home/document-structure/citation)
