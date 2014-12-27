@@ -45,6 +45,11 @@
 * [DC elements](http://dublincore.org/documents/dces)
 * [Wikipedia entry](http://en.wikipedia.org/wiki/Dublin_Core)
 
+## Encoded Archival Description (EAD) ##
+
+* [Encoded Archival Description (EAD)](http://www.loc.gov/ead/ead.html)
+* [EAD Crosswalks](http://www.loc.gov/ead/tglib/appendix_a.html)
+
 ## Evidence Explained ##
 
 * [Layered citations](https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing)
