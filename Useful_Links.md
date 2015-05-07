@@ -59,6 +59,7 @@
 * [Growing a Healthy Family Tree](https://familyfolklore.wordpress.com/2014/09/16/growing-a-healthy-family-tree)
 * [Thoughts of Mastering Genealogical Proof: Chapter 3 Thorough Research](https://familyfolklore.wordpress.com/2014/03/15/thoughts-of-mastering-genealogical-proof-chapter-3-thorough-research)
 * [Provenance of a Personal Collection – Archival Accession, Arrangement and Description](https://familyfolklore.wordpress.com/2013/05/20/provenance-of-a-personal-collection-archival-accession-arrangement-and-description)
+* [Hierarchies Help Source Organisation, Analysis and Citation](https://familyfolklore.wordpress.com/2015/03/21/hierarchies-help-source-organisation-analysis-and-citation)
 
 ## GedcomX ##
 
